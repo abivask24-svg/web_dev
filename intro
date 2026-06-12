@@ -1,4 +1,29 @@
-hi there 
-i'm Abivas and i like to introduce myself to all of you
-i'm from kerala,thrissur.
-i'm a Btech student in Artificial Intelligence and Machine Learning in Jai Bharath College of Management and Technology,Arackappady,Ernakulam
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Introduction</title>
+</head>
+<body>
+
+    <h1>About Me</h1>
+
+    <p>
+        Hi there! My name is Abivas.
+    </p>
+
+    <p>
+        I am from Thrissur, Kerala.
+    </p>
+
+    <p>
+        I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at Jai Bharath College of Management and Technology, Arackappady, Ernakulam.
+    </p>
+
+    <p>
+        Thank you for taking the time to know a little about me.
+    </p>
+
+</body>
+</html>
